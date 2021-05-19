@@ -1,0 +1,1 @@
+a=["python","HTML","c++","json","java","java script"]
